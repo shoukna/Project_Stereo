@@ -6,12 +6,12 @@
 
 Code for Project_Stereo.
 
-##Compiler Environment
+## Compiler Environment
 
 - Visual Studio 2012
 - OpenCV 2.4.13
 
-##Problem_6
+## Problem_6
 
 1. Use Visual Studio to open Problem_6.sln in the folder problem_6.
 
@@ -31,7 +31,7 @@ Code for Project_Stereo.
 
 3. Run the code and you will get the result in **out_camera_data.xml** saved in the local path.
 
-##Problem_7
+## Problem_7
 
 1. Use Visual Studio to open Problem_7.sln in the folder problem_7.
 
@@ -51,7 +51,7 @@ Code for Project_Stereo.
 
 3. Run the code and you will get the undistorted result of the picture.
 
-##Problem_8
+## Problem_8
 
 1. Use Visual Studio to open Problem_8.sln in the folder problem_8.
 
@@ -68,7 +68,7 @@ Code for Project_Stereo.
 
 3. Run the code and you will get the result in **caliberation_result.txt** saved in the local path.
 
-##Problem_12
+## Problem_12
 
 1. Use Visual Studio to open Problem_12.sln in the folder problem_12.
 
